@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Shorts",
+  "description": "Remove YouTube Shorts from your feed",
+  "version": "1.0",
+  "action": {
+    "default_icon": "favicon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
