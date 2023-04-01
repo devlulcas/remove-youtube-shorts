@@ -16,7 +16,7 @@ YouTube Shorts can be annoying, especially if you don't like them. This extensio
 
 ## Installation
 
-1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/remove-youtube-shorts/ndjgjgjgjgjgjgjgjgjgjgjgjgjgjgjg)
+1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/) **(not yet)**
 
 2. Click on the extension icon to enable/disable the extension.
 
