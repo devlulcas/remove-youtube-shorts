@@ -8,7 +8,7 @@
 
 An extension to remove YouTube Shorts from YouTube.
 
-![selected](https://raw.githubusercontent.com/devlulcas/remove-youtube-shorts/main/.github/images/selected.png)
+![selected](https://raw.githubusercontent.com/devlulcas/remove-youtube-shorts/main/.github/images/preview.png)
 
 ### Why?
 
