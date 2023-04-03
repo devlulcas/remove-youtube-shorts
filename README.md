@@ -25,7 +25,7 @@ YouTube Shorts can be annoying, especially if you don't like them. This extensio
 ![off](https://raw.githubusercontent.com/devlulcas/remove-youtube-shorts/main/.github/images/off.png)
 
 
-![on](https://raw.githubusercontent.com/devlulcas/remove-youtube-shorts/main/.github/images/off.png)
+![on](https://raw.githubusercontent.com/devlulcas/remove-youtube-shorts/main/.github/images/on.png)
 
 ## How it works
 
