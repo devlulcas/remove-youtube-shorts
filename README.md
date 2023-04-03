@@ -16,9 +16,17 @@ YouTube Shorts can be annoying, especially if you don't like them. This extensio
 
 ## Installation
 
-1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/) **(not yet)**
+1. Clone this repository
 
-2. Click on the extension icon to enable/disable the extension.
+2. Go to [chrome://extensions](chrome://extensions)
+
+3. Enable the developer mode
+
+4. Click on the "Load unpacked" button
+
+5. Select the folder where you cloned the repository
+
+6. Click on the extension icon to enable/disable the extension.
 
 ## Screenshots
 
